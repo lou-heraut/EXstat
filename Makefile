@@ -6,10 +6,10 @@ check:
 	R -e 'devtools::check()'
 
 install:
-	R -e 'remotes::install_github("louis-heraut/EXstat")'
+	R -e 'remotes::install_github("lou-heraut/EXstat")'
 
 install-dev:
-	R -e 'remotes::install_github("louis-heraut/EXstat@dev")'
+	R -e 'remotes::install_github("lou-heraut/EXstat@dev")'
 
 help:
 	R -e 'help(process_extraction, EXstat, help_type="pdf")'

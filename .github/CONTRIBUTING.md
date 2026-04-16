@@ -7,7 +7,7 @@ Whether you're fixing bugs, improving documentation, or developing new features,
 ## 🚀 Getting Started
 
 If you're unsure where to begin:
-- Check out our [open issues](https://github.com/louis-heraut/EXstat/issues).
+- Check out our [open issues](https://github.com/lou-heraut/EXstat/issues).
 - Feel free to open a new issue to ask questions or suggest ideas.
 
 #### Want to Work on Something?
@@ -20,7 +20,7 @@ If you plan to tackle an issue or develop something new :
 Here’s a step-by-step guide to contributing :
 
 #### 1. **Fork the Repository**
-Click the **Fork** button at the top right of the [EXstat GitHub page](https://github.com/louis-heraut/EXstat) to create a copy of the repo under your GitHub account.
+Click the **Fork** button at the top right of the [EXstat GitHub page](https://github.com/lou-heraut/EXstat) to create a copy of the repo under your GitHub account.
 
 #### 2. **Clone Your Fork**
 Clone your fork to your local machine:
@@ -74,7 +74,7 @@ To sync your fork with the main repo:
 #### Option 2: Using Git (advanced)
 
 ```bash
-git remote add upstream https://github.com/louis-heraut/EXstat.git
+git remote add upstream https://github.com/lou-heraut/EXstat.git
 git fetch upstream
 git merge upstream/main
 git push origin main
