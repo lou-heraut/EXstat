@@ -52,7 +52,7 @@
             "roleName": "Developer"
         }
     ],
-    "codeRepository": "https://github.com/super-lou/EXstat",
+    "codeRepository": "https://github.com/lou-heraut/EXstat",
     "dateCreated": "2022-04-07",
     "dateModified": "2025-04-18",
     "datePublished": "2022-04-07",
@@ -69,5 +69,8 @@
     "programmingLanguage": "R 4.x.x",
     "softwareRequirements": "https://github.com/super-lou/CARD",
     "version": "3.0.0",
-    "developmentStatus": "active"
+    "developmentStatus": "inactive",
+    "relatedLink": [
+        "https://github.com/lou-heraut/stase"
+    ]
 }
